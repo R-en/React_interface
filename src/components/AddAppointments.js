@@ -1,9 +1,9 @@
 import React, {Component} from 'react';
 
-class AddApointments extends Component {
+class AddAppointments extends Component {
     render(){
-        return <div> Add Apointments</div>;
+        return <div> Add Appointments</div>;
     }
 }
 
-export default AddApointments;
+export default AddAppointments;
